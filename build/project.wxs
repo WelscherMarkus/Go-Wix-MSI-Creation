@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
     <Package Language="1033"
-             Manufacturer="Acme Corporation"
+             Manufacturer="Welscher Markus"
              Name="Example Application"
              Version="1.0.0.0"
              UpgradeCode="9606C6F9-C8C0-4702-4FDD-CC7C9BB41F81">
